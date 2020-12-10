@@ -3,4 +3,4 @@
 ![Sample image #1](/sample_image_1_1.jpg)
 ![Sample image #1](/sample_image_1_2.jpg)
 
-![Change detection result (compared with Absdiff from OpenCV)](/result1.jpg)
+![Change detection result compared with Absdiff from OpenCV](/result1.jpg)
